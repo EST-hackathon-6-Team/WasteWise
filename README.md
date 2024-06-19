@@ -8,6 +8,8 @@ EST해커톤
 
 ## 성과: 우수상 
 
+<img src="https://github.com/EST-hackathon-6-Team/WasteWise/assets/99312529/7273d83f-859a-4864-8ec4-7d58592e4c4f" width="500">
+
 ## 피드백
 
 ### 양서연님
