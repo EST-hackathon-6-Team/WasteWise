@@ -10,6 +10,40 @@ EST해커톤
 
 <img src="https://github.com/EST-hackathon-6-Team/WasteWise/assets/99312529/7273d83f-859a-4864-8ec4-7d58592e4c4f" width="500">
 
+
+## 멤버
+<table style="width: 100%;">
+<tr>
+    <td align="center"><b>조은수</b></td>
+    <td align="center"><b>김민지</b></td>
+</tr>
+<tr> 
+    <td align="center">기획</td>
+    <td align="center">기획</td>
+</tr> 
+<tr> 
+    <td align="center"></td>
+    <td align="center"</td>
+</tr> 
+</table>
+<table style="width: 100%;">
+<tr>
+    <td align="center"><b>한재현</b></td>
+    <td align="center"><b>이승후</b></td>
+    <td align="center"><b>백승진</b></td>
+</tr>
+<tr> 
+    <td align="center">AI개발</td>
+    <td align="center">AI개발</td>
+    <td align="center">Backend, Front</td>
+</tr> 
+<tr> 
+    <td align="center"></td>
+    <td align="center"</td>
+    <td align="center"></td>
+</tr> 
+</table>
+
 ## 피드백
 
 ### 양서연님
