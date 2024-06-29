@@ -7,6 +7,12 @@ EST해커톤
 ||- **SpringBoot**: 복잡한 비즈니스 로직, 데이터베이스 연동, 트랜잭션 관리 등 전통적인 엔터프라이즈 애플리케이션에 적합한 작업을 처리<br>- **FastAPI**: 빠른 응답, 비동기 처리가 필요한 작업, 머신 러닝 모델 서빙<br><br>- SpringBoot와 FastAPI는 gRPC로 통신<br>|
 
 
+https://github.com/EST-hackathon-6-Team/WasteWise/assets/99312529/ecd17d4a-78cf-42f0-936b-a8b6cffdcc6f
+
+|||
+|---|---|
+|![image](https://github.com/EST-hackathon-6-Team/WasteWise/assets/99312529/fd0aec7b-7797-4ba7-8246-4e44904028b0)|![image](https://github.com/EST-hackathon-6-Team/WasteWise/assets/99312529/9a7e25b5-ad4c-4ef6-a0ef-2171a0daf08c)|
+
 ## 성과: 우수상 
 
 <img src="https://github.com/EST-hackathon-6-Team/WasteWise/assets/99312529/7273d83f-859a-4864-8ec4-7d58592e4c4f" width="500">
