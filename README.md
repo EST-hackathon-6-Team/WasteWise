@@ -4,7 +4,7 @@ EST해커톤
 |MVP|고도화|
 |---|---|
 |![image](https://github.com/EST-hackathon-6-Team/WasteWise/assets/99312529/1ad1ba68-1138-4c4c-9ebc-00dd8f917d8c)|![image](https://github.com/EST-hackathon-6-Team/WasteWise/assets/99312529/62d4f412-15a5-4092-adf0-3530ab958898)|
-||SpringBoot와 FastAPI는 gRPC로 통신<br>- SpringBoot: 복잡한 비즈니스 로직, 데이터베이스 연동, 트랜잭션 관리 등 전통적인 엔터프라이즈 애플리케이션에 적합한 작업을 처리<br>- FastAPI: 빠른 응답, 비동기 처리가 필요한 작업, 머신 러닝 모델 서빙|
+||- **SpringBoot**: 복잡한 비즈니스 로직, 데이터베이스 연동, 트랜잭션 관리 등 전통적인 엔터프라이즈 애플리케이션에 적합한 작업을 처리<br>- **FastAPI**: 빠른 응답, 비동기 처리가 필요한 작업, 머신 러닝 모델 서빙<br><br>- SpringBoot와 FastAPI는 gRPC로 통신<br>|
 
 
 ## 성과: 우수상 
@@ -132,4 +132,4 @@ AI 개발
 - 협업 방식 변경
 
 
-## kdt 수상을 목표로!!
+## kdt 해커톤 수상을 목표로!!
